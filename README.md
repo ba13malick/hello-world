@@ -1,3 +1,3 @@
-Made edits to the master instead of this
-guess thats why theh have these tutorials
 # hello-world
+Getting to learn ow Github wors
+Wished we used this to collab at school
